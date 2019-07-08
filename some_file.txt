@@ -1,0 +1,3 @@
+I deleted the original 1st line
+Then I added a 2nd line.
+And a Third
